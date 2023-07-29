@@ -1,6 +1,6 @@
 # Javier Fiestas Botella - Desarrollador especializado en Python & A.I.
 
-<img src="img/py1.jpg" width="300" height="200">
+<img src="img/py1.jpg" width="500" height="300">
 
 
 
