@@ -1,7 +1,7 @@
 # Javier Fiestas Botella - Desarrollador especializado en Python & A.I.
 
 <img src="img/py1.jpg" width="300" height="200">
-<div style="background-image: url('img/py1.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; opacity: 0.8; padding: 50px;">
+
 
 
 ¡Hola, soy Javier Fiestas Botella, un desarrollador apasionado por Python y la inteligencia artificial! Como Spiderman, mi objetivo es tejer redes de código y crear soluciones que marquen la diferencia.
@@ -31,9 +31,12 @@ Si deseas ver mis proyectos y contribuciones, puedes visitar mi perfil de GitHub
 ¡Gracias por visitar mi perfil y compartir esta pasión por la programación y la inteligencia artificial! Con Python y la agilidad de Spiderman, juntos podemos crear algo sorprendente. ¡Únete a mi equipo de desarrolladores y hagamos que el mundo sea un lugar mejor!
 
 
-
-### Hi there 👋
+<div style="position: fixed; bottom: 0; left: 0; width: 100%; background-color: rgba(255, 255, 255, 0.8); padding: 10px; text-align: center;">
+  <img src="img/py2.jpg" alt="Footer Image" style="width: 150px; height: auto;">
+  <p style="margin-top: 5px; font-size: 12px; color: #333;">Copyright © 2023 My Project. All rights reserved.</p>
 </div>
+### Hi there 👋
+
 
 <!--
 **Javierfiestasbotella/Javierfiestasbotella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
