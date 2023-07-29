@@ -13,7 +13,7 @@
 - Actualmente, me encuentro inmerso en el apasionante campo de la inteligencia artificial, adquiriendo conocimientos avanzados y habilidades en esta vanguardista disciplina. ¡Estoy preparándome para el PECAP (Programa de Especialización en Ciencia de Datos y Aprendizaje Profundo) como si fuera entrenamiento para vencer a los villanos más desafiantes!
 
 - Mi camino en la programación comenzó durante la pandemia, cuando decidí aprovechar el tiempo de cuarentena para sumergirme en el fascinante mundo de la programación. Desde entonces, he estado inmerso en la lectura, estudio y práctica constante para perfeccionar mis habilidades, tal como Spiderman se entrena para ser un superhéroe.
-![Spiderman Logo](https://example.com/spiderman_logo.png)
+<img src="spd1.jpg" width="300" height="200">
 ## Proyectos Destacados 🌟
 
 - Creación y desarrollo de la página web del restaurante donde trabajo, [Vegetariano El Calafate](http://www.vegetarianoelcalafate.eu/). ¡Fue como tejer una telaraña de código que atrapa a los visitantes y los invita a disfrutar de deliciosos platillos!
