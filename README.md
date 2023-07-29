@@ -1,6 +1,6 @@
 # Javier Fiestas Botella - Desarrollador especializado en Python & A.I.
 
-![Spiderman Logo](https://example.com/spiderman_logo.png)
+![Spiderman Logo](img/py1.png)
 
 ¡Hola, soy Javier Fiestas Botella, un desarrollador apasionado por Python y la inteligencia artificial! Como Spiderman, mi objetivo es tejer redes de código y crear soluciones que marquen la diferencia.
 
