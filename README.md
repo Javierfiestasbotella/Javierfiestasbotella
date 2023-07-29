@@ -13,20 +13,20 @@
 
 - Completé exitosamente un curso de Python en la prestigiosa institución **Tokio School**, donde realicé un emocionante proyecto que me permitió aplicar mis habilidades y conocimientos adquiridos.
 
-- Actualmente, me encuentro inmerso en el apasionante campo de la inteligencia artificial, adquiriendo conocimientos avanzados y habilidades en esta vanguardista disciplina. ¡Estoy preparándome para el PECAP (Programa de Especialización en Ciencia de Datos y Aprendizaje Profundo) como si fuera entrenamiento para vencer a los villanos más desafiantes!
+- Actualmente, me encuentro inmerso en el apasionante campo de la inteligencia artificial, adquiriendo conocimientos avanzados y habilidades en esta vanguardista disciplina. ¡Estoy preparándome para el PECAP (Programa de Especialización en Ciencia de Datos y Aprendizaje Profundo) como si fuera entrenamiento para alcanzar nuevas metas!
 
-- Mi camino en la programación comenzó durante la pandemia, cuando decidí aprovechar el tiempo de cuarentena para sumergirme en el fascinante mundo de la programación. Desde entonces, he estado inmerso en la lectura, estudio y práctica constante para perfeccionar mis habilidades, tal como Spiderman se entrena para ser un superhéroe.
+- Mi camino en la programación comenzó durante la pandemia, cuando decidí aprovechar el tiempo de cuarentena para sumergirme en el fascinante mundo de la programación. Desde entonces, he estado inmerso en la lectura, estudio y práctica constante para perfeccionar mis habilidades.
 <img src="spd1(2).jpg" width="300" height="200">
 
 ## Proyectos Destacados 🌟
 
 - Creación y desarrollo de la página web del restaurante donde trabajo, [Vegetariano El Calafate](http://www.vegetarianoelcalafate.eu/). ¡Fue como tejer una telaraña de código que atrapa a los visitantes y los invita a disfrutar de deliciosos platillos!
 
-- Participación en diversos cursos en plataformas como **Udemy**, **Píldoras informáticas** y **Keep Coding**, donde adquirí nuevos conocimientos y técnicas para crear aplicaciones de escritorio y llevar mis habilidades al siguiente nivel, como si me enfrentara a un nuevo enemigo.
+- Participación en diversos cursos en plataformas como **Udemy**, **Píldoras informáticas** y **Keep Coding**, donde adquirí nuevos conocimientos y técnicas para crear aplicaciones de escritorio y llevar mis habilidades al siguiente nivel, como si me enfrentara a un nuevo reto.
 
 ## Compromiso con el Aprendizaje 📚
 
-Siempre estoy en busca de nuevos desafíos y oportunidades para ampliar mi conocimiento y mantenerme actualizado con las últimas tendencias y avances tecnológicos. Continúo estudiando de manera autónoma, siendo un programador autodidacta que se siente emocionado y motivado por el potencial ilimitado que la programación y la inteligencia artificial ofrecen, tal como Spiderman nunca deja de aprender y mejorar para proteger a la ciudad.
+Siempre estoy en busca de nuevos desafíos y oportunidades para ampliar mi conocimiento y mantenerme actualizado con las últimas tendencias y avances tecnológicos. Continúo estudiando de manera autónoma, siendo un programador autodidacta que se siente emocionado y motivado por el potencial ilimitado que la programación y la inteligencia artificial ofrecen, tal como un desarrollador nunca deja de aprender y mejorar para proteger a la ciudad.
 
 ## Visita mi Perfil de GitHub 🕸️
 
