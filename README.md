@@ -1,7 +1,7 @@
 # Javier Fiestas Botella - Desarrollador especializado en Python & A.I.
 
 <img src="img/py1.jpg" width="300" height="200">
-<div style="background-image: url('img/py2.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; opacity: 0.8; padding: 50px;">
+<div style="background-image: url('img/py1.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; opacity: 0.8; padding: 50px;">
 
 
 ¡Hola, soy Javier Fiestas Botella, un desarrollador apasionado por Python y la inteligencia artificial! Como Spiderman, mi objetivo es tejer redes de código y crear soluciones que marquen la diferencia.
