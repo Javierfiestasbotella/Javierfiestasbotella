@@ -1,30 +1,35 @@
+# Javier Fiestas Botella - Desarrollador especializado en Python & A.I.
 
-Javier Fiestas Botella - Desarrollador especializado en Python & A.I.
-¡Hola! Soy Javier Fiestas Botella, un desarrollador apasionado por Python y la inteligencia artificial. Permíteme compartir contigo mi trayectoria en el mundo de la programación y la tecnología.
+![Spiderman Logo](https://example.com/spiderman_logo.png)
 
-Trayectoria Profesional
-Completé exitosamente un curso de Python en la prestigiosa institución Tokio School, donde realicé un emocionante proyecto que me permitió aplicar mis habilidades y conocimientos adquiridos.
+¡Hola, soy Javier Fiestas Botella, un desarrollador apasionado por Python y la inteligencia artificial! Como Spiderman, mi objetivo es tejer redes de código y crear soluciones que marquen la diferencia.
 
-Actualmente, me encuentro inmerso en el apasionante campo de la inteligencia artificial, adquiriendo conocimientos avanzados y habilidades en esta vanguardista disciplina. Estoy preparándome para el PECAP (Programa de Especialización en Ciencia de Datos y Aprendizaje Profundo).
+## Trayectoria Profesional 🚀
 
-Mi camino en la programación comenzó durante la pandemia, cuando decidí aprovechar el tiempo de cuarentena para sumergirme en el fascinante mundo de la programación. Desde entonces, he estado inmerso en la lectura, estudio y práctica constante para perfeccionar mis habilidades.
+- Completé exitosamente un curso de Python en la prestigiosa institución **Tokio School**, donde realicé un emocionante proyecto que me permitió aplicar mis habilidades y conocimientos adquiridos.
 
-Proyectos Destacados
-Creación y desarrollo de la página web del restaurante donde trabajo, Vegetariano El Calafate. Este proyecto me permitió adentrarme en el ámbito del desarrollo web y ampliar mi experiencia en el campo.
+- Actualmente, me encuentro inmerso en el apasionante campo de la inteligencia artificial, adquiriendo conocimientos avanzados y habilidades en esta vanguardista disciplina. ¡Estoy preparándome para el PECAP (Programa de Especialización en Ciencia de Datos y Aprendizaje Profundo) como si fuera entrenamiento para vencer a los villanos más desafiantes!
 
-Participación en diversos cursos en plataformas como Udemy, Píldoras informáticas y Keep Coding, donde adquirí nuevos conocimientos y técnicas para crear aplicaciones de escritorio y llevar mis habilidades al siguiente nivel.
+- Mi camino en la programación comenzó durante la pandemia, cuando decidí aprovechar el tiempo de cuarentena para sumergirme en el fascinante mundo de la programación. Desde entonces, he estado inmerso en la lectura, estudio y práctica constante para perfeccionar mis habilidades, tal como Spiderman se entrena para ser un superhéroe.
+![Spiderman Logo](https://example.com/spiderman_logo.png)
+## Proyectos Destacados 🌟
 
-Compromiso con el Aprendizaje
-Siempre estoy en busca de nuevos desafíos y oportunidades para ampliar mi conocimiento y mantenerme actualizado con las últimas tendencias y avances tecnológicos. Continúo estudiando de manera autónoma, siendo un programador autodidacta que se siente emocionado y motivado por el potencial ilimitado que la programación y la inteligencia artificial ofrecen.
+- Creación y desarrollo de la página web del restaurante donde trabajo, [Vegetariano El Calafate](http://www.vegetarianoelcalafate.eu/). ¡Fue como tejer una telaraña de código que atrapa a los visitantes y los invita a disfrutar de deliciosos platillos!
 
-Visita mi Perfil de GitHub
-Si deseas ver mis proyectos y contribuciones, puedes visitar mi perfil de GitHub en Javierfiestasbotella. Estaré encantado de recibir tus comentarios y colaborar en proyectos innovadores que hagan del mundo un lugar más conectado e inteligente.
+- Participación en diversos cursos en plataformas como **Udemy**, **Píldoras informáticas** y **Keep Coding**, donde adquirí nuevos conocimientos y técnicas para crear aplicaciones de escritorio y llevar mis habilidades al siguiente nivel, como si me enfrentara a un nuevo enemigo.
 
-¡Gracias por visitar mi perfil y compartir esta pasión por la programación y la inteligencia artificial!do en diversos cursos en plataformas como Udemy, Píldoras informáticas y Keep Coding, donde he adquirido nuevos conocimientos y técnicas que me han impulsado a seguir creciendo como programador autodidacta.
+## Compromiso con el Aprendizaje 📚
 
-Hoy en día, continúo estudiando de manera autónoma, siempre en búsqueda de nuevos desafíos y oportunidades para ampliar mi conocimiento y mantenerme actualizado con las últimas tendencias y avances tecnológicos. Si deseas ver mis proyectos y contribuciones, puedes visitar mi perfil de GitHub en: https://github.com/Javierfiestasbotella.
+Siempre estoy en busca de nuevos desafíos y oportunidades para ampliar mi conocimiento y mantenerme actualizado con las últimas tendencias y avances tecnológicos. Continúo estudiando de manera autónoma, siendo un programador autodidacta que se siente emocionado y motivado por el potencial ilimitado que la programación y la inteligencia artificial ofrecen, tal como Spiderman nunca deja de aprender y mejorar para proteger a la ciudad.
 
-Me siento emocionado y motivado por el potencial ilimitado que la programación y la inteligencia artificial ofrecen, y estoy ansioso por seguir contribuyendo y participando en proyectos innovadores que hagan del mundo un lugar más conectado e inteligente." </p>
+## Visita mi Perfil de GitHub 🕸️
+
+Si deseas ver mis proyectos y contribuciones, puedes visitar mi perfil de GitHub en [Javierfiestasbotella](https://github.com/Javierfiestasbotella). Estaré encantado de recibir tus comentarios y colaborar en proyectos innovadores que hagan del mundo un lugar más conectado e inteligente, al estilo del trepamuros.
+
+¡Gracias por visitar mi perfil y compartir esta pasión por la programación y la inteligencia artificial! Con Python y la agilidad de Spiderman, juntos podemos crear algo sorprendente. ¡Únete a mi equipo de desarrolladores y hagamos que el mundo sea un lugar mejor!
+
+
+
 ### Hi there 👋
 
 <!--
