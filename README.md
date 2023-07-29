@@ -1,4 +1,5 @@
-# Javier Fiestas Botella - Desarrollador especializado en Python & A.I.
+# <span style="color: #FF5733;">Javier Fiestas Botella</span> - <span style="font-size: 24px; font-style: italic; color: #00BFFF;">Desarrollador especializado en Python & A.I.</span>
+
 
 <img src="img/py1.jpg" width="500" height="300">
 
