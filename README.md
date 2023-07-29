@@ -7,7 +7,7 @@
 
 
 
-¡Hola, soy Javier Fiestas Botella, un desarrollador apasionado por Python y la inteligencia artificial! Como un araña, mi objetivo es tejer redes de código y crear soluciones que marquen la diferencia.
+¡Hola, soy Javier Fiestas Botella, un desarrollador apasionado por Python y la inteligencia artificial! Como las arañas, mi objetivo es tejer redes de código y crear soluciones que marquen la diferencia.
 
 ## Trayectoria Profesional 🚀
 
