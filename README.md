@@ -32,8 +32,8 @@ Si deseas ver mis proyectos y contribuciones, puedes visitar mi perfil de GitHub
 ¡Gracias por visitar mi perfil y compartir esta pasión por la programación y la inteligencia artificial! Con Python y la agilidad de Spiderman, juntos podemos crear algo sorprendente. ¡Únete a mi equipo de desarrolladores y hagamos que el mundo sea un lugar mejor!
 
 
-<div style="position: fixed; bottom: 0; left: 0; width: 100%; background-color: rgba(255, 255, 255, 0.8); padding: 10px; text-align: center;">
-  <img src="img/py2.jpg" alt="Footer Image" style="width: 150px; height: auto;">
+<div style="position: fixed; bottom: 0; left: 0; width: 200%; background-color: rgba(255, 255, 255, 0.8); padding: 10px; text-align: center;">
+  <img src="img/py2.jpg" alt="Footer Image" style="width: 300px; height: auto;">
   <p style="margin-top: 5px; font-size: 12px; color: #333;">Copyright © 2023 My Project. All rights reserved.</p>
 </div>
 ### Hi there 👋
