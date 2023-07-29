@@ -1,4 +1,5 @@
-# <span style="font-family: 'Arial Black', sans-serif; color: #007BFF;">Javier Fiestas Botella</span> - <span style="font-size: 24px; font-style: italic; color: #4CAF50;">Desarrollador especializado en Python & A.I.</span>
+# <span style="font-family: 'Arial Black', sans-serif; color: white;">Javier Fiestas Botella</span> - <span style="font-size: 24px; font-style: italic; color: #00BFFF;">Desarrollador especializado en Python & A.I.</span>
+
 
 
 
