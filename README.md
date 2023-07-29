@@ -33,6 +33,7 @@ Si deseas ver mis proyectos y contribuciones, puedes visitar mi perfil de GitHub
 
 
 ### Hi there 👋
+</div>
 
 <!--
 **Javierfiestasbotella/Javierfiestasbotella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
