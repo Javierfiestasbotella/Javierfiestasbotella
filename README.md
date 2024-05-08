@@ -1,4 +1,7 @@
-# <span style="font-family: 'Arial Black', sans-serif; color: white;">Javier Fiestas Botella</span> - <span style="font-size: 24px; font-style: italic; color: #00BFFF;">Desarrollador especializado en Python & A.I.</span>
+# <span style="font-family: 'Arial Black', sans-serif; color: white;">Javier Fiestas Botella</span> - 
+<span style="font-size: 24px; font-style: italic; color: #00BFFF;">Desarrollador especializado en Python & A.I. </span> 
+<span style="font-size: 18px; color: #808080;">/ Desarrollador Web / Especialista en IA & Datos / Experiencia en Sagemaker de QWS y Great Expectation</span>
+
 
 
 
