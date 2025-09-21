@@ -23,10 +23,10 @@
 
 ## Proyectos Destacados 🌟
 
-- Creación y desarrollo de la página web del restaurante donde trabajo, [Vegetariano El Calafate](http://www.vegetarianoelcalafate.eu/). ¡Fue como tejer una telaraña de código que atrapa a los visitantes y los invita a disfrutar de deliciosos platillos!
-- Creación y desarrollo de página web de instructora de Pilates, Qigong y Quiromasajes.
+- Creación y desarrollo de la página web del restaurante donde trabajé, [Vegetariano El Calafate](http://www.vegetarianoelcalafate.eu/). ¡Fue como tejer una telaraña de código que atrapa a los visitantes y los invita a disfrutar de deliciosos platillos!
+- Creación y desarrollo de página web de instructora de Pilates, Qigong y Quiromasajes.[Qiquiropilates](http://www.silviagarciacuesta.com/)
 
-- Participación en diversos cursos en plataformas como **Udemy**, **Píldoras informáticas** y **Keep Coding**, donde adquirí nuevos conocimientos y técnicas para crear aplicaciones de escritorio y llevar mis habilidades al siguiente nivel, como si me enfrentara a un nuevo reto.
+- Participación en diversos cursos en plataformas como **Tokio School**, **Udemy**, **Píldoras informáticas** y **Keep Coding**, donde adquirí nuevos conocimientos y técnicas para crear aplicaciones de escritorio y llevar mis habilidades al siguiente nivel, como si me enfrentara a un nuevo reto.
 
 ## Compromiso con el Aprendizaje 📚
 
