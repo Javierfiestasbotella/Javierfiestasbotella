@@ -251,7 +251,7 @@ while True:
 
 <div align="center">
 
-<img src="img/footer.png" width="300" alt="Javier Fiestas Botella - Python Developer">
+<img src="img/footer.jpg" width="300" alt="Javier Fiestas Botella - Python Developer">
 
 <br>
 
