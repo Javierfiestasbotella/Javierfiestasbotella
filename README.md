@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="img/portada.jpg" width="500" alt="Javier Fiestas Botella - Python & AI Developer">
+<img src="img/cara.png" width="500" alt="Javier Fiestas Botella - Python & AI Developer">
 
 <br><br>
 
@@ -251,7 +251,7 @@ while True:
 
 <div align="center">
 
-<img src="img/py2.jpg" width="300" alt="Javier Fiestas Botella - Python Developer">
+<img src="img/footer.png" width="300" alt="Javier Fiestas Botella - Python Developer">
 
 <br>
 
