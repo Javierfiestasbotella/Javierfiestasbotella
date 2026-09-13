@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="img/py1.jpg" width="500" alt="Javier Fiestas Botella - Python & AI Developer">
+<img src="img/portada.jpg" width="500" alt="Javier Fiestas Botella - Python & AI Developer">
 
 <br><br>
 
